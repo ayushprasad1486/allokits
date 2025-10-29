@@ -42,7 +42,7 @@ export default function Footer() {
         <div className="grid md:grid-cols-3 gap-8">
           {/* Brand */}
           <div className="space-y-4">
-            <h3 className="text-xl font-bold">Niloy Bhowmick</h3>
+            <h3 className="text-xl font-bold">Allokits</h3>
             <p className="text-gray-400 text-sm">
               Alok Dangi, a dedicated video editor, crafts professional, high-quality edits with a keen eye for detail. I blend creativity and technical skill to bring your vision to life.
             </p>
@@ -106,11 +106,11 @@ export default function Footer() {
           <p className="text-gray-400 text-sm flex items-center justify-center gap-1">
             Made with <Heart className="text-red-500" size={16} /> by{" "}
             <a
-              href="https://www.linkedin.com/in/dangialok77/"
+              href="https://decoderashish.com/"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Md. Maruf Sarker
+              Decoder Ashish
             </a>{" "}
             © {currentYear}
           </p>

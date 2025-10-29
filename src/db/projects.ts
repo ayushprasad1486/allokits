@@ -30,7 +30,7 @@ export const allVideoProjects: VideoProject[] = [
     client_feedback: "",
     video_link: "https://youtu.be/bJ6VVhmxefQ",
     project_images: [],
-    category: ["Shorts", "Reels"],
+    category: ["Reels", "Shorts"],
     duration: "10:12",
     software_used: ["Davinci Resolve", "After Effects"],
   },

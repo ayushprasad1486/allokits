@@ -1,8 +1,7 @@
 export const categories = [
   "All",
-  "Talking Heads",
   "Shorts",
-  "Promo",
+  "Reels",
   "Documentary",
   "Motion Graphics",
 ];

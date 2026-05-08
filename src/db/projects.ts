@@ -4,7 +4,10 @@ export const allVideoProjects: VideoProject[] = [
   {
     id: "cbstUmDENc0",
     video_title: "Re-edited a video for Dhruv Rathee",
-    video_description: `A prominent YouTuber with millions of subscribers, to enhance its pacing, visual appeal, and storytelling.`,
+    video_description: `Cinematic documentary-style re-edit inspired by Dhruv Rathee’s storytelling format.
+    Edited using advanced motion graphics, dynamic typography, and smooth transitions to create engaging and immersive visuals. 
+    Focused on improving pacing, storytelling flow, and overall visual impact for short-form content. 
+`,
     tags: ["Resume Tips", "FAANG Career", "Job Preparation", "Career Advice"],
     cover_image: "cbstUmDENc0",
     publish_date: "2024-08-04",
@@ -21,7 +24,12 @@ export const allVideoProjects: VideoProject[] = [
     id: "bJ6VVhmxefQ",
     video_title: "NBS Pictures",
     video_description:
-      "Edited raw footage provided by NBS Pictures, a popular YouTuber, to create a polished and engaging video.",
+      "I re-edited raw NBS Pictures footage into a fast-paced, engaging tech short reel using only DaVinci Resolve.
+      Transformed unpolished clips into a polished video with smooth transitions, precise audio sync, dynamic text
+      animations, motion graphics, and professional color grading.
+      Key edits include tight pacing optimized for Shorts/Reels, enhanced color correction, and engaging overlays to boost 
+      viewer retention. This ~45-second edit effectively showcases three useful productivity apps with a clean, modern look.
+",
     tags: ["DSA", "Developer Skills", "Problem Solving", "Career Prep"],
     cover_image: "bJ6VVhmxefQ",
     publish_date: "2024-04-08",
@@ -38,7 +46,10 @@ export const allVideoProjects: VideoProject[] = [
     id: "WMtVfUTRE2U",
     video_title:
       "Re-edit @Vox- 3D Reel",
-    video_description: `3. re-edited this video & audio is taken from  @Vox`,
+    video_description: `This project is a cinematic re-edit inspired by Vox-style documentary storytelling and motion graphics. 
+    I used advanced motion graphics and 3D camera animation to create smooth depth, dynamic movement, and an immersive visual
+    experience. The reel focuses on clean transitions, engaging typography, and professional pacing optimized for Reels and Shorts.
+    Sound design and audio synchronization were also enhanced to achieve a premium documentary-style feel. `,
     tags: ["Stress Relief", "Mental Health", "Wellness", "HeartMath"],
     cover_image: "WMtVfUTRE2U",
     publish_date: "2025-06-06",

@@ -6,8 +6,7 @@ export const allVideoProjects: VideoProject[] = [
     video_title: "Re-edited a video for Dhruv Rathee",
     video_description: `Cinematic documentary-style re-edit inspired by Dhruv Rathee’s storytelling format.
     Edited using advanced motion graphics, dynamic typography, and smooth transitions to create engaging and immersive visuals. 
-    Focused on improving pacing, storytelling flow, and overall visual impact for short-form content. 
-`,
+    Focused on improving pacing, storytelling flow, and overall visual impact for short-form content. `,
     tags: ["Resume Tips", "FAANG Career", "Job Preparation", "Career Advice"],
     cover_image: "cbstUmDENc0",
     publish_date: "2024-08-04",
@@ -23,13 +22,12 @@ export const allVideoProjects: VideoProject[] = [
   {
     id: "bJ6VVhmxefQ",
     video_title: "NBS Pictures",
-    video_description:
-      "I re-edited raw NBS Pictures footage into a fast-paced, engaging tech short reel using only DaVinci Resolve.
-      Transformed unpolished clips into a polished video with smooth transitions, precise audio sync, dynamic text
-      animations, motion graphics, and professional color grading.
-      Key edits include tight pacing optimized for Shorts/Reels, enhanced color correction, and engaging overlays to boost 
-      viewer retention. This ~45-second edit effectively showcases three useful productivity apps with a clean, modern look.
-",
+    video_description: `I re-edited raw NBS Pictures footage into a fast-paced, engaging tech short reel using only DaVinci Resolve.
+Transformed unpolished clips into a polished video with smooth transitions, precise audio sync, dynamic text
+animations, motion graphics, and professional color grading.
+Key edits include tight pacing optimized for Shorts/Reels, enhanced color correction, and engaging overlays to boost 
+viewer retention. This ~45-second edit effectively showcases three useful productivity apps with a clean, modern look.`,
+      
     tags: ["DSA", "Developer Skills", "Problem Solving", "Career Prep"],
     cover_image: "bJ6VVhmxefQ",
     publish_date: "2024-04-08",

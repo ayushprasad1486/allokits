@@ -8,7 +8,7 @@ export const allVideoProjects: VideoProject[] = [
     Edited using advanced motion graphics, dynamic typography, and smooth transitions to create engaging and immersive visuals. 
     Focused on improving pacing, storytelling flow, and overall visual impact for short-form content. `,
     tags: ["Resume Tips", "FAANG Career", "Job Preparation", "Career Advice"],
-    cover_image: "cbstUmDENc0",
+    cover_image: "Screenshot 2026-05-08 135336.png",
     publish_date: "2024-08-04",
     client_name: "Self-Initiated Project (Dhruv Rathee) ",
     client_image: "Screenshot 2026-05-08 135336.png",
@@ -49,7 +49,7 @@ viewer retention. This ~45-second edit effectively showcases three useful produc
     experience. The reel focuses on clean transitions, engaging typography, and professional pacing optimized for Reels and Shorts.
     Sound design and audio synchronization were also enhanced to achieve a premium documentary-style feel. `,
     tags: ["Stress Relief", "Mental Health", "Wellness", "HeartMath"],
-    cover_image: "WMtVfUTRE2U",
+    cover_image: "vox logo.jpg",
     publish_date: "2025-06-06",
     client_name: "Self-Initiated Project (Vox)",
     client_image: "vox logo.jpg",
